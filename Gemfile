@@ -1,6 +1,6 @@
 source :rubygems
 
-gem 'sinatra', '~> 1.2.6', :require => 'sinatra/base'
+gem 'sinatra'
 gem 'haml', '~> 3.1.2'
 gem 'sass', '~>3.1.2'
 gem 'json', '~>1.5.1'
